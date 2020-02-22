@@ -299,3 +299,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.gitignore.io/api/git,java,macos,android,windows,androidstudio
+
+google_maps_api.xml
+app/src/debug/res/values/google_maps_api.xml
